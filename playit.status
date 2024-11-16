@@ -1,1386 +1,906 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1731714725326 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1731799539569 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714728389 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799542627 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714731455 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799545722 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714734518 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799548793 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714737580 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799551856 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714740651 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799554921 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714743739 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799558009 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714746796 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799561081 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714749849 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799564231 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714752904 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799567324 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714755957 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799570427 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714759015 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799573525 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714762071 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799576601 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714765147 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799579663 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714768217 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799582724 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714771283 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799585783 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714774358 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799588842 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714777415 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799591927 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714780470 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799594997 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714783532 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799598060 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714786619 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799601117 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714789673 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799604175 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714792795 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799607242 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714795860 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799610307 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714798929 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799613372 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714801987 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799616449 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714805048 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799619516 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714808107 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799622578 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714811165 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799625643 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714814239 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799628717 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714817301 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731799643824 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714820356 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799646885 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714823415 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799649955 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714826476 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799653025 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714829528 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799656099 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714832612 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799659176 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714835668 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799662278 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714838729 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799665511 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714841810 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799668573 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714844896 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799671629 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714847952 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799674691 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714851025 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799677784 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714854107 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799680858 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714857168 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799683952 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714860251 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799687028 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714863317 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799690090 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714866378 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799693177 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714869457 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799696234 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714872531 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799699291 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714875596 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799702382 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714878660 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799705466 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714881733 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799708528 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714884801 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799711589 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714887863 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799714651 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714890918 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799717706 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714893990 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799720784 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714897049 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799723851 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714900112 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799726909 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714903166 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799729969 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714906232 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799733035 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714909292 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799736095 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714912365 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799739150 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714915418 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799742213 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714918475 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799745296 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714921534 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799748353 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714924596 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799751413 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714927659 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799754471 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714930715 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799757529 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714933780 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799760587 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714936846 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799763655 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714939904 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799766716 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714942962 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799769772 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714946089 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799772832 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714949153 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799775905 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714952220 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799778971 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714955286 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799782032 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714958346 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799785091 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714961420 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799788164 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714964486 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799791238 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714967549 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799794303 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714970607 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799797436 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714973670 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799800522 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714976729 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799803585 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714979791 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799806657 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714982854 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799809717 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714985933 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799812796 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714988994 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799815873 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714992054 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799818945 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714995144 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799822015 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731714998238 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799825079 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715001319 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799828142 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715004408 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799831200 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715007477 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731799846310 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715010540 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799849377 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715013721 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799852433 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715016784 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799855497 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715020225 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799858559 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715023533 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799861616 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715026605 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731799876719 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715029661 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799879792 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715032720 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799882851 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715035773 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799885954 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715038828 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799889015 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715041894 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799892077 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715044960 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799895146 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715048045 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731799910433 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715051105 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799913499 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715054160 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799916660 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715057220 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731799931762 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715060280 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799934822 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715063339 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799937891 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715066396 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731799953064 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715069458 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799956139 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715072516 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799959209 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715075585 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731799974332 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715078644 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799977391 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715081799 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799980446 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715084884 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731799983505 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715087963 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731799998603 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715091023 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731800001677 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715094079 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731800004741 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715097136 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731800007849 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715100195 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731800022950 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715103266 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731800026070 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715106322 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731800029130 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715109476 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731800032257 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715112534 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731800047357 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715115633 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731800050416 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715118739 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731800053482 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715121809 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731800056545 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715124871 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731800071650 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715127936 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731800074717 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715130997 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731800077774 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715134073 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731800080845 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715137139 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731800095955 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715140200 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731800099034 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715143322 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731800102106 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715146405 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731800105178 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715149473 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731800108247 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715152550 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731800123356 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715155617 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731800126421 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715158707 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731800129477 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715161768 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731800132558 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715164840 tunnel running, 1 tunnels registered
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731800147662 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715167916 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715170989 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715174050 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715177121 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715180314 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715183383 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715186466 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715189527 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715192587 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715195645 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715198718 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715201881 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715204947 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715208005 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715211119 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715214183 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715217289 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715220352 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715223445 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715226509 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715229642 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715232737 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715235809 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715238875 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715241937 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715245000 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715248061 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715251118 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715254197 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715257267 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715260343 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715263516 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715266608 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715269663 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715272738 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715275801 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715278880 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715281948 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715285027 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715288105 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715291160 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715294220 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715297283 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715300356 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715303424 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715306498 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715309567 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715312632 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715315696 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715318773 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715321868 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715324934 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715327991 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715331119 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715334194 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715337325 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715340398 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715343466 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715346539 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715349615 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715352700 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715355760 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715358845 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715361933 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715365010 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715368070 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715371128 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715374195 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715377303 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715380388 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715383457 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715386521 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715389592 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715392648 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715395833 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715398905 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715401964 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715405035 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715408116 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715411195 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715414259 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715417357 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715420432 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715423511 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715426581 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715429665 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731715432749 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-shipping-criterion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+shipping-criterion.gl.joinmc.link => 127.0.0.1:54724 (minecraft-java)
