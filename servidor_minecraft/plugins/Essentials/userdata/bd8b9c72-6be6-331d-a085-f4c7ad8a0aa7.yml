@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 10.147.20.62
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732333508043
+  login: 1732333447451
+money: '0'
+last-account-name: gama042000
+logoutlocation:
+  world: 9dfcd3b2-94d2-414f-8272-435fb22e75e4
+  world-name: world
+  x: -531.743004260585
+  y: 203.0
+  z: -272.2643762775113
+  yaw: 102.91656494140625
+  pitch: 6.149209499359131
+lastlocation:
+  world: 9dfcd3b2-94d2-414f-8272-435fb22e75e4
+  world-name: world
+  x: -564.3000000119209
+  y: 206.0
+  z: -267.7952246073518
+  yaw: -78.75225830078125
+  pitch: 24.749448776245117

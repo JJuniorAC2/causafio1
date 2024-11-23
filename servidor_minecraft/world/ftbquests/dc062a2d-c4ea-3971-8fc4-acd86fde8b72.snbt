@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "dc062a2dc4ea39718fc4acd86fde8b72"
+	name: "Lionel_947#dc062a2d"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

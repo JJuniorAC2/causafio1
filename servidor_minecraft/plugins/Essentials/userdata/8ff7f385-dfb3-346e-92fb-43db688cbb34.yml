@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 10.147.20.220
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1732336449346
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732387102188
+  login: 1732386210214
+money: '0'
+last-account-name: JJuniorAC
+logoutlocation:
+  world: 9dfcd3b2-94d2-414f-8272-435fb22e75e4
+  world-name: world
+  x: -900.6916746823545
+  y: 67.49591604719708
+  z: -554.570363708787
+  yaw: 167.1048583984375
+  pitch: 22.64914894104004
+lastlocation:
+  world: 9dfcd3b2-94d2-414f-8272-435fb22e75e4
+  world-name: world
+  x: -723.0263829219355
+  y: 191.75593252899793
+  z: -350.9241455553015
+  yaw: 117.01410675048828
+  pitch: 30.89923095703125

@@ -1,0 +1,20 @@
+{
+	version: 1
+	uuid: "18fc96ec28fc334facee7d36c2332e48"
+	name: "DoctoRSanwich#18fc96ec"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: {
+		34FABF819AA3A927: 1732333274141L
+		0000000000000001: 1732333274141L
+		421360DD49FADBF1: 1732333274141L
+		539F8321DE02FDBB: 1732333274141L
+	}
+	completed: {
+		421360DD49FADBF1: 1732333274151L
+		539F8321DE02FDBB: 1732333274151L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

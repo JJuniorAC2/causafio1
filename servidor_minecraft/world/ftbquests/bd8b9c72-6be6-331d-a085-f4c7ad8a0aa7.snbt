@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "bd8b9c726be6331da085f4c7ad8a0aa7"
+	name: "gama042000#bd8b9c72"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		3EC35FC4F7E10ACE: 1
+	}
+	started: {
+		270E9080C148912D: 1732333294066L
+		3EC35FC4F7E10ACE: 1732333294066L
+		0000000000000001: 1732333294066L
+		34FABF819AA3A927: 1732333294066L
+	}
+	completed: {
+		270E9080C148912D: 1732333294066L
+		3EC35FC4F7E10ACE: 1732333294066L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}
